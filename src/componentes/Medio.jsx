@@ -1,8 +1,8 @@
 import React from 'react'
-
+import '../styles/Medio.css'
 function Medio() {
   return (
-    <div>Description of what is done here</div>
+    <div className='Description'>Description of what is done here</div>
   )
 }
 

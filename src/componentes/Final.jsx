@@ -1,10 +1,11 @@
 import React from 'react'
-
+import '../styles/Final.css'
 function Final() {
   return (
     <div>
-        <span>Last Updated</span>
-        <span>3/8/2020</span>
+
+        <span className='P1'>Last Updated</span>
+        <span className='P2'>3/8/2020</span>
     </div>
   )
 }

@@ -9,7 +9,13 @@ function App() {
       <Encabezado />
       <Medio />
       <Final />
+
+      
     </>
+    
+
+    
+
 
   );
 }

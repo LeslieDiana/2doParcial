@@ -1,0 +1,24 @@
+.P1 {
+    font-family: 'Lato';
+    padding-left: 15px;
+    width: 76px;
+    height: 16px;
+    left: 19px;
+    top: 9px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    color: #888888;
+}
+.P2{
+    font-family: 'Lato';
+    padding-left: 50%;
+    width: 76px;
+    height: 16px;
+    left: 19px;
+    top: 9px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    color: #888888;
+}

@@ -1,5 +1,6 @@
 import React from 'react'
 import triangulo from '../images/triangulo.png'
+import '../styles/Encabezado.css'
 
 function Encabezado() {
     return (
